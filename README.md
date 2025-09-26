@@ -1,15 +1,29 @@
+# 👋 Hi, I'm Paulo Vitor Calaca  
 
-# Paulo Vitor Zasimowicz Pinto Calaça
+I’m a results-driven engineer with a background in **Chemical Engineering** and currently pursuing the **Erasmus Mundus Joint Master’s in Textile Engineering (WE-TEAM)**. My journey bridges **process engineering, data-driven optimization, and applied research in textiles**, with a growing focus on **data engineering and artificial intelligence**.  
 
-Results-driven professional with a background in Chemical Engineering and diverse internships. Proven expertise in project coordination, digital process optimization, and data reporting.
+## 🎓 Education & Research  
+- **MSc in Textile Engineering (WE-TEAM, Erasmus Mundus)** – ongoing, with semesters at Ghent University (Belgium), University of West Attica (Greece), and University of Borås (Sweden).  
+- **BSc in Chemical Engineering (UFU, Brazil)** – graduated Feb 2024, with undergraduate research in smart textiles.  
+- **Research Internship (TU Dresden, Germany, 2025)** – worked on **4D scan data processing, clustering, and visualization**, including a PyQt-based GUI for point selection and analysis.  
 
-Well, let me tell you a bit about my journey so far. I completed my undergraduate studies in Chemical Engineering at the Federal University of Uberlândia (UFU) in December 2023. During my time at UFU, I was actively involved in two student groups, the American Institute of Chemical Engineering and the Academic Directory, which allowed me to develop my leadership and teamwork skills.
+## 💼 Experience  
+- **Procter & Gamble (2023)** – HR Management Intern, leading digital process optimization and career development initiatives.  
+- **Britvic / Coca-Cola (2023)** – Corporate Quality Intern, automated reporting pipelines (Power BI, VBA) and LIMS system standardization.  
+- **Disney (2022–2023)** – Cultural Exchange Program, enhancing customer experience in a fast-paced, multicultural environment.  
+- **Uberlândia Refrescos (2022)** – Environmental Intern, developed dashboards for water management and supported sustainability projects.  
 
-After graduation, I decided to pursue a master's degree in Textile Engineering in Belgium, starting in September 2024. The World Textile Engineering Advanced Master (WE-TEAM), is a two-year Erasmus Mundus Joint Master Degree (EMJMD) Programme to educate the next generation of textile engineers. Students all start their first semester at Ghent University in Belgium. The second semester for the cohort 2024-2026 takes place at the University of West Attica in Greece. For the third semester, students go to the University of Boras in Sweden or the Kyoto Institute of Technology in Japan.  This decision aligns with my goal of expanding my knowledge and skills in engineering, particularly in the textile sector, as my undergraduate project was in smart textiles. However, my interests don't stop there.
+## 🛠️ Skills  
+- **Programming & Data:** Python, SQL, Power BI, Excel (VBA), Open3D, PyTorch/TensorFlow (in progress)  
+- **Engineering:** Process optimization, Six Sigma Green Belt, methods engineering  
+- **Languages:** Portuguese (native), English (fluent), French (basic), Spanish/German/Greek (basic)  
 
-I'm also eager to learn about data engineering and artificial intelligence. Combining these areas with my chemical and textile engineering background will not only expand my career opportunities but also enable me to contribute to innovative solutions in these fields. My goal is to leverage these diverse skills and knowledge to address complex challenges and make a meaningful impact in the industry.
+## 🌍 What drives me  
+I’m passionate about combining **engineering, sustainability, and AI** to create innovative and scalable solutions.  
+My current thesis explores **4D scanning and recognition models** — extending image recognition into the **3D + time** domain.  
 
-Overall, I'm excited about the future and the opportunities that lie ahead. I'm committed to continuous learning and growth, and I'm confident that my multidisciplinary background will allow me to excel in a variety of roles in the engineering field.
+I believe my multidisciplinary background is a toolkit to approach challenges like **circular fashion, textile recycling, and privacy-preserving AI systems**.  
+
 
 ## Sites about me
 
