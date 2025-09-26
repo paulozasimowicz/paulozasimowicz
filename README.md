@@ -14,7 +14,7 @@ I’m a results-driven engineer with a background in **Chemical Engineering** an
 - **Uberlândia Refrescos (2022)** – Environmental Intern, developed dashboards for water management and supported sustainability projects.  
 
 ## 🛠️ Skills  
-- **Programming & Data:** Python, SQL, Power BI, Excel (VBA), Open3D, PyTorch/TensorFlow (in progress)  
+- **Programming & Data:** Python, Power BI, Excel (VBA), Open3D, PyTorch/TensorFlow (in progress)  
 - **Engineering:** Process optimization, Six Sigma Green Belt, methods engineering  
 - **Languages:** Portuguese (native), English (fluent), French (basic), Spanish/German/Greek (basic)  
 
