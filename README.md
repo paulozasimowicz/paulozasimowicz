@@ -3,7 +3,7 @@
 I’m a results-driven engineer with a background in **Chemical Engineering** and currently pursuing the **Erasmus Mundus Joint Master’s in Textile Engineering (WE-TEAM)**. My journey bridges **process engineering, data-driven optimization, and applied research in textiles**, with a growing focus on **data engineering and artificial intelligence**.  
 
 ## 🎓 Education & Research  
-- **MSc in Textile Engineering (WE-TEAM, Erasmus Mundus)** – ongoing, with semesters at Ghent University (Belgium), University of West Attica (Greece), and University of Borås (Sweden).  
+- **MSc in Textile Engineering (WE-TEAM, Erasmus Mundus)** – ongoing, with semesters at Ghent University (Belgium), University of West Attica (Greece), University of Borås (Sweden), and TU Dresden (Germany).  
 - **BSc in Chemical Engineering (UFU, Brazil)** – graduated Feb 2024, with undergraduate research in smart textiles.  
 - **Research Internship (TU Dresden, Germany, 2025)** – worked on **4D scan data processing, clustering, and visualization**, including a PyQt-based GUI for point selection and analysis.  
 
